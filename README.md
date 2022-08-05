@@ -121,3 +121,94 @@ Technical abilities  (true)
 Professional certification
 
 Academic degree
+
+11.  In the modern data ecosystem, what is one of the key challenges when stakeholders pull data from the enterprise data repository?
+
+Ensuring that the method of data access meets stakeholder needs (true)
+
+Guaranteeing that the organizational scheme complies with security standards
+
+Checking that all the raw data resides in a centralized repository
+
+Establishing that the compiled data scales at a sufficient rate
+
+
+12. In the data ecosystem, what are data analysts responsible for?
+
+Converting raw data from disparate sources into usable data
+
+Using the data to generate insights and identify patterns (ture)
+
+Providing business solutions based on insights and predictions
+
+Creating predictive models based on the data
+
+13. Which of the following data sources contain semi-structured data?
+
+Spreadsheets
+
+Sensors
+
+Tweets
+
+Emails (true)
+
+
+14.  SQL is ideal for which of the following tasks?
+Developing statistical software and performing data analytics
+
+Accessing information from relational databases (true)
+
+Creating mobile and desktop web applications quickly
+
+Automating repetitive tasks that are time-consuming to execute one line at a time
+
+15.  Which of the following is an advantage of using relational databases?
+
+Optimization for low-cost hardware
+
+Unlimited length of data fields
+
+Easy backup and disaster recovery (true)
+
+Data redundancy across tables
+
+16. What is the function of a data integration platform?
+
+Locate specific data within a repository and display this data
+
+Combine disparate sources of data into a unified view of the data (true)
+
+Extract raw data, transform the data, then load it into a repository
+
+Move data from its source to a destination data lake or application
+
+17. In a data platform architecture, the data analysis and user interface layer performs which of the following tasks?
+
+Delivers data to data consumers (true)
+
+Makes data available for processing
+
+Supports querying tools and programming languages
+
+Maintains information about the data
+
+18. When using SQL, which of the following operators could you use to search for a specific pattern in a column of data?
+
+UNION
+
+BETWEEN
+
+LIKE (true)
+
+ALL
+
+
+19. What role does an authentication system play in ensuring compliance with data governance regulations?
+Provides audit reports on which users access which data
+
+Converts user session data to an encoded format
+
+Verifies that users are who they say they are (true)
+
+Ensures data access only for users who are authorized
