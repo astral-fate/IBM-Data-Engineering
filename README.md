@@ -13,15 +13,24 @@ Marketability
 
 Scalability
 
+
+
+Reliability, security, and integrity 
+
 2. In the data ecosystem, what are data analysts responsible for?
 
 Creating predictive models based on the data
 
 Providing business solutions based on insights and predictions
 
-Using the data to generate insights and identify patterns
+Using the data to generate insights and identify patterns (True)
 
 Converting raw data from disparate sources into usable data
+
+
+ Data Analyst translates data and numbers into plain language, so organizations can make decisions. 
+ Data Analysts inspect, and clean data for deriving insights; identify correlations, find patterns, and apply statistical methods to analyze and mine data; 
+ and visualize data to interpret and present the findings of data analysis
 
 
 3. Which of the following data sources contain structured data?
