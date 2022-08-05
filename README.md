@@ -4,7 +4,8 @@ final exam
 
 
 1. In the modern data ecosystem, what is one of the key challenges when organizing data within a data repository?
-Security
+
+Security (True?)
 
 Replicability
 
@@ -13,6 +14,14 @@ Marketability
 Scalability
 
 2. In the data ecosystem, what are data analysts responsible for?
+
+Creating predictive models based on the data
+
+Providing business solutions based on insights and predictions
+
+Using the data to generate insights and identify patterns
+
+Converting raw data from disparate sources into usable data
 
 
 3. Which of the following data sources contain structured data?
@@ -73,7 +82,7 @@ Makes data available for processing
 
 8. When using SQL, which of the following functions can you use to count the number of unique values in a column?
 
-DISTINCT (trur)
+DISTINCT (true)
 
 PRIMARY KEY
 
@@ -85,7 +94,7 @@ COUNT
 
 Storage, sharing, and retention
 
-Acquisition, processing, storage, sharing, retention, and disposal (trur)
+Acquisition, processing, storage, sharing, retention, and disposal (true)
 
 Acquisition, processing, storage, sharing, and retention
 
